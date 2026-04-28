@@ -119,11 +119,7 @@ Consistent performers in the top 10 across multiple categories — runs, wickets
 **Marketing and Fan Engagement**
 Six-hitters and Player of the Match award winners drive social media engagement and merchandise revenue. Franchises should prioritize signing and promoting these profiles regardless of pure cricket metrics.
 
-## 📁 Repository Structure
 
-ipl-data-analysis-sql/
-├── ipl_queries.sql       All 15 SQL queries with comments
-└── README.md             Project documentation
 
 ## Open ipl_queries.sql and run all 15 queries
 
