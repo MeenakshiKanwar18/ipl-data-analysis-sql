@@ -1,7 +1,7 @@
-# ipl-data-analysis-sql
+
 Analyzed 260,920 IPL deliveries and 1,095 matches using MySQL _toss impact, top performers, venue stats and title history.
 
-# IPL Data Analysis — SQL Project
+# IPL Data Analysis - SQL Project
 
 Analyzed IPL match and delivery data using MySQL.
 
