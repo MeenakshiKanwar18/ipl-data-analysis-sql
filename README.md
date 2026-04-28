@@ -7,8 +7,6 @@ Analyzed 260,920 IPL deliveries and 1,095 matches using MySQL _toss impact, top 
 
 A comprehensive data analysis project on the Indian Premier League (IPL) using MySQL. This project explores 15 years of IPL data across 1,095 matches and 260,920 ball-by-ball deliveries to answer real business questions that franchise owners, team selectors, and cricket analysts care about.
 
----
-
 ## 📦 Dataset
 
 | File | Rows | Description |
@@ -19,8 +17,6 @@ A comprehensive data analysis project on the Indian Premier League (IPL) using M
 - Seasons Covered: 2008 to 2022
 - Source: Kaggle IPL Complete Dataset
 
----
-
 ## 🛠️ Tools and Technologies
 
 | Tool | Purpose |
@@ -30,8 +26,6 @@ A comprehensive data analysis project on the Indian Premier League (IPL) using M
 | Python 3.13 | Data ingestion using pandas and sqlalchemy |
 | GitHub | Version control and project showcase |
 
----
-
 ## 🎯 Project Objectives
 
 - Identify performance trends across 15 IPL seasons
@@ -40,9 +34,7 @@ A comprehensive data analysis project on the Indian Premier League (IPL) using M
 - Provide data-driven recommendations for franchise auction strategy
 - Analyze venue patterns and their effect on team selection
 
----
-
-## 📊 Business Questions, Queries and Insights
+## 📊 Business Questions and Insights
 
 ### 🔵 Section 1 — Season and Match Analysis
 
@@ -61,8 +53,6 @@ Over 60% of toss winners choose to field first. This reflects a data-driven shif
 **Q4. Does winning the toss actually help win the match?**
 
 Teams that win the toss and choose to field win significantly more often. This validates the field-first strategy and suggests franchise coaching staff should train teams specifically for chase scenarios.
-
----
 
 ### 🟡 Section 2 — Player Performance Analysis
 
@@ -90,8 +80,6 @@ Economy rate below 7 runs per over in T20 cricket is elite. This query identifie
 
 Six-hitters are not just match-winners — they are the primary drivers of crowd engagement, broadcast highlights, and franchise merchandise revenue. This analysis supports both sporting and commercial decision-making.
 
----
-
 ### 🔴 Section 3 — Advanced Analysis
 
 **Q11. Which players have hit the most boundaries (4s and 6s combined)?**
@@ -114,8 +102,6 @@ Mumbai Indians have won 5 titles, CSK have won 4. The data reveals that consiste
 
 Wankhede Stadium and M. Chinnaswamy Stadium lead in matches hosted. Home venue familiarity is a measurable advantage — teams that play more matches at familiar grounds show stronger win rates.
 
----
-
 ## 💡 Key Business Decisions Supported by This Analysis
 
 **Franchise Auction Strategy**
@@ -132,7 +118,5 @@ Consistent performers in the top 10 across multiple categories — runs, wickets
 
 **Marketing and Fan Engagement**
 Six-hitters and Player of the Match award winners drive social media engagement and merchandise revenue. Franchises should prioritize signing and promoting these profiles regardless of pure cricket metrics.
-
----
 
 ## 📁 Repository Structure
