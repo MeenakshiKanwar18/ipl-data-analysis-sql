@@ -120,3 +120,19 @@ Consistent performers in the top 10 across multiple categories — runs, wickets
 Six-hitters and Player of the Match award winners drive social media engagement and merchandise revenue. Franchises should prioritize signing and promoting these profiles regardless of pure cricket metrics.
 
 ## 📁 Repository Structure
+
+ipl-data-analysis-sql/
+├── ipl_queries.sql       All 15 SQL queries with comments
+└── README.md             Project documentation
+
+## Open ipl_queries.sql and run all 15 queries
+
+## 📌 Key Findings Summary
+
+- Mumbai Indians are the most successful IPL franchise with the highest win rate
+- Fielding first after winning the toss increases win probability significantly
+- Virat Kohli is the all-time leading run scorer by a large margin
+- Death bowling specialists are the most impactful bowlers across all seasons
+- Wankhede and Chinnaswamy are the two most used venues in IPL history
+
+
